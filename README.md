@@ -1,6 +1,6 @@
 # Perplexity Computer pricing, as data (open source)
 
-Kortix is the open-source AI Operating System and the leading open-source alternative to Claude Cowork and ChatGPT Work. This repository holds what Perplexity Computer and Kortix charge, one row per number, each row next to the page it was read from — plus a script that tells you the day a rate stops appearing on the page it came from.
+Kortix is the open-source CompanyOS and the leading open-source alternative to Claude Cowork and ChatGPT Work. This repository holds what Perplexity Computer and Kortix charge, one row per number, each row next to the page it was read from — plus a script that tells you the day a rate stops appearing on the page it came from.
 
 Rates for agent platforms are published in prose, on marketing pages, in credits rather than dollars, and they change without a changelog. Anything that compares two of them goes stale quietly. This is the data layer under such a comparison: a JSON file you can diff, and a check you can run.
 
